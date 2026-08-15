@@ -224,8 +224,8 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 188,699 | 🐛 19,859 | 🌐 TypeScript | 📅 2026-08-14 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 188,699 | 🐛 19,859 | 🌐 TypeScript | 📅 2026-08-14
+* [Source code](https://github.com/microsoft/vscode) ⭐ 188,735 | 🐛 19,863 | 🌐 TypeScript | 📅 2026-08-15 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 188,735 | 🐛 19,863 | 🌐 TypeScript | 📅 2026-08-15
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
@@ -496,7 +496,7 @@ With MATLAB installed:
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,276 | 🐛 82 | 🌐 JavaScript | 📅 2026-08-14.
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,278 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-14.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
