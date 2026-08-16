@@ -94,7 +94,7 @@
             "last_commit": "2026-06-17T10:19:10Z",
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20834
+            "stars": 20833
           }
         },
         {
@@ -830,7 +830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:42:03.352Z",
+    "last_updated": "2026-08-16T23:41:33.846Z",
     "original_repository": "viatsko/awesome-vscode",
     "original_repository_sha": "9c3bf848287d3967a744e7c057ea49ec9e89b396",
     "enhanced_repository": "enhansome/enhansome-vscode",
