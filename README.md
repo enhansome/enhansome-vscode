@@ -224,8 +224,8 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 188,833 | 🐛 20,002 | 🌐 TypeScript | 📅 2026-08-17 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 188,833 | 🐛 20,002 | 🌐 TypeScript | 📅 2026-08-17
+* [Source code](https://github.com/microsoft/vscode) ⭐ 188,912 | 🐛 19,947 | 🌐 TypeScript | 📅 2026-08-18 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 188,912 | 🐛 19,947 | 🌐 TypeScript | 📅 2026-08-18
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
@@ -441,11 +441,11 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ### Linters
 
-* [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava) ⭐ 20,833 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17.
+* [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava) ⭐ 20,832 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17.
 
-* [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo) ⭐ 7,992 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-29.
+* [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo) ⭐ 7,993 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-29.
 
-* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Opinionated code formatter for [Prettier](https://github.com/prettier/prettier-vscode) ⭐ 5,506 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-03.
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Opinionated code formatter for [Prettier](https://github.com/prettier/prettier-vscode) ⭐ 5,507 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-03.
 
 * [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 
@@ -496,7 +496,7 @@ With MATLAB installed:
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,283 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-14.
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,284 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-18.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
