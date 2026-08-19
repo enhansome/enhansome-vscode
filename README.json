@@ -1,837 +1,96 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Migrating from Vim"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Migrating from Atom"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Migrating from Sublime Text"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Migrating from Visual Studio"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Migrating from Intellij IDEA"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Migrating from Xcode"
-    },
-    {
-      "description": "Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).\nMake sure to visit it at Microsoft/vscode-recipes\nIn case the awesome nirvana that is linting has not yet been unleashed upon you:\nUnlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, Languages section.",
-      "items": [],
-      "title": "Camel Humps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AutoHotkey"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AutoHotkey Plus"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bash"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bash IDE"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bash Debug"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Shellman"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Clojure"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Calva"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "CSS"
-    },
-    {
-      "description": "",
+      "description": "In case the awesome nirvana that is linting has not yet been unleashed upon you:\nlint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.\nUnlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, Languages section.",
       "items": [
         {
-          "node_type": "item",
-          "title": "AVA",
-          "description": "Snippets for AVA.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-17T10:19:10Z",
-            "owner": "avajs",
-            "repo": "ava",
-            "stars": 20832
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "XO",
-          "description": "Linter for XO.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-29T23:27:31Z",
-            "owner": "xojs",
-            "repo": "xo",
-            "stars": 7993
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prettier",
-          "description": "Opinionated code formatter for Prettier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-03T17:47:39Z",
-            "owner": "prettier",
-            "repo": "prettier-vscode",
-            "stars": 5507
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AVA",
+                  "description": "Snippets for AVA.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26820798,
+                    "language": "JavaScript",
+                    "last_commit": "2026-06-17T10:19:10Z",
+                    "owner": "avajs",
+                    "repo": "ava",
+                    "stars": 20832
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "XO",
+                  "description": "Linter for XO.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40053602,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-29T23:27:31Z",
+                    "owner": "xojs",
+                    "repo": "xo",
+                    "stars": 7993
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Prettier",
+                  "description": "Opinionated code formatter for Prettier.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 78566876,
+                    "language": "TypeScript",
+                    "last_commit": "2026-06-03T17:47:39Z",
+                    "owner": "prettier",
+                    "repo": "prettier-vscode",
+                    "stars": 5507
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Linters"
+            }
+          ],
+          "description": "See the difference between these two here",
+          "node_type": "group",
+          "title": "JavaScript"
         }
       ],
-      "title": "Linters"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Debugger for Chrome"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Markdown"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "markdownlint"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Markdown All in One"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Markdown Emoji"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "MEO"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PHP"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PHP Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Smarty"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Smarty Template Support"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Pull Requests and Issues"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GistPad"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Actions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Repositories"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Pull Request Monitor"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ARM Template Viewer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Azure Cosmos DB"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Azure IoT Toolkit"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bookmarks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Microsoft Edge Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Color Tabs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Create tests"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dendron"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Duplicate Action"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Error Lens"
-    },
-    {
-      "description": "Example of toggling by shortcut:\n",
-      "items": [],
-      "title": "Toggle"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ES7 React/Redux/GraphQL/React-Native snippets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gi"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Git History"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Git Project Manager"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitLink"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitLens"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitLab Workflow"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gradle Tasks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Icon Fonts"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Import Cost"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Jira and Bitbucket"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Find-Jump"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Kanban"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Live Server"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Clipboard Manager"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ngrok for VSCode"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dotnet Core Test Explorer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "i18n Ally"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Instant Markdown"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "npm Intellisense"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Parameter Hints"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Partial Diff"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Paste JSON as Code"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Path Autocomplete"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Path IntelliSense"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Power Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PrintCode"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Project Manager"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Project Dashboard"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Rainbow CSV"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Remote Development"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "REST Client"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Text Power Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Todo Tree"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Toggle Quotes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Typescript Destructure"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "WakaTime"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Timing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "httpYac"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "DevDb"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Keploy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SemanticDiff"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Trunk"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Peacock"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Copilot"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Better Align"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Auto Rename Tag"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "html2pug"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Paste and Indent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sort Lines"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Surround"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Wrap Selection"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Formatting Toggle"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "shell-format"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Vscode Google Translate"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Explorer Icons"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "City Lights Icons"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "VSCode Icons"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Seti Icons"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Material Icon Theme"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "CodeRoad"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Code Runner"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Code Time"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Color Highlight"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Output Colorizer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dash"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Edit with Shell Command"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Editor Config for VS Code"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SFTP"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Highlight JSX/HTML tags"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Indent Rainbow"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "iTerm2 Theme Sync"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Password Generator"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PlatformIO IDE"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Polacode"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "carbon-now-sh"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Quokka"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Runner"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SVG"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Text Marker (Highlighter)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Interface generator"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "JFrog"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SARIF Explorer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Document Viewer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Syntax"
-    },
-    {
-      "description": "Cyberpunk 2077 inspired theme",
-      "items": [],
-      "title": "2077 theme by Endormi"
-    },
-    {
-      "description": "VSCode theme inspired by a galaxy far far away...",
-      "items": [],
-      "title": "An Old Hope Theme by Dustin Sanders"
-    },
-    {
-      "description": "Dark VSCode theme inspired by Japanese traditional colors and the poetry composed 1000 years ago.",
-      "items": [],
-      "title": "Ariake Dark by wart"
-    },
-    {
-      "description": "One Dark Theme based on Atom.",
-      "items": [],
-      "title": "Atom One Dark Theme by Mahmoud Ali"
-    },
-    {
-      "description": "A detailed and accurate Atom One Dark Theme.",
-      "items": [],
-      "title": "Atomize by emroussel"
-    },
-    {
-      "description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
-      "items": [],
-      "title": "Ayu by teabyii"
-    },
-    {
-      "description": "VS Code theme inspired by the calm colors of the aurora borealis in Alaska.",
-      "items": [],
-      "title": "Borealis Theme by Alexander Eckert"
-    },
-    {
-      "description": "Tuff but sweet theme.",
-      "items": [],
-      "title": "Captain Sweetheart by ultradracula"
-    },
-    {
-      "description": "🏙 Yummygum's Official City Lights suite",
-      "items": [],
-      "title": "City Lights by Yummygum"
-    },
-    {
-      "description": "🔥 Official theme by Wes Bos.",
-      "items": [],
-      "title": "Cobalt2 Theme Official by Wes Bos"
-    },
-    {
-      "description": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
-      "items": [],
-      "title": "Dracula Official by Dracula Theme"
-    },
-    {
-      "description": "A simple theme with bright colors in three variants — Night Sky, Serene and Ocean for all day long comfortable work.",
-      "items": [],
-      "title": "Edge by Bogdan Lazar"
-    },
-    {
-      "description": "A colorful and semantic coloring code theme.",
-      "items": [],
-      "title": "Eva Theme by fisheva"
-    },
-    {
-      "description": "A fun, purple-based pastel/candy/daydream fairyfloss theme made by sailorhg.",
-      "items": [],
-      "title": "Fairy Floss by nopjmp and sailorhg"
-    },
-    {
-      "description": "GitHub Theme for Visual Studio Code.",
-      "items": [],
-      "title": "GitHub Theme by Thomas Pink"
-    },
-    {
-      "description": "Jellybeans Theme for Visual Studio Code.",
-      "items": [],
-      "title": "Jellybeans Theme by Dimitar Nonov"
-    },
-    {
-      "description": "An elegant and juicy material-like theme for Visual Studio Code.",
-      "items": [],
-      "title": "Material Palenight Theme by whizkydee"
-    },
-    {
-      "description": "The most epic theme now for Visual Studio Code.",
-      "items": [],
-      "title": "Material Theme by Mattia Astorino"
-    },
-    {
-      "description": "Minimal monochrome theme.",
-      "items": [],
-      "title": "Mno by u29dc"
-    },
-    {
-      "description": "A dark theme with vibrant colors by Rocketseat.",
-      "items": [],
-      "title": "Omni by Rocketseat"
-    },
-    {
-      "description": "A popular free Monokai theme for Visual Studio Code, blending Monokai with Atom's One Dark.",
-      "items": [],
-      "title": "One Monokai by azemoh"
-    },
-    {
-      "description": "Beautiful functionality for professional developers, from the author of the original Monokai color scheme.",
-      "items": [],
-      "title": "Monokai Pro by monokai (commercial)"
-    },
-    {
-      "description": "A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with color blindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
-      "items": [],
-      "title": "Night Owl by Sarah Drasner"
-    },
-    {
-      "description": "A simple theme.",
-      "items": [],
-      "title": "Plastic by Will Stone"
-    },
-    {
-      "description": "An arctic, north-bluish clean and elegant Visual Studio Code theme.",
-      "items": [],
-      "title": "Nord by arcticicestudio"
-    },
-    {
-      "description": "Collection of 320+ beautiful syntax and UI themes.",
-      "items": [],
-      "title": "Rainglow by Dayle Rees"
-    },
-    {
-      "description": "A relaxed theme to take a more relaxed view of things.",
-      "items": [],
-      "title": "Relaxed Theme by Michael Kühnel"
-    },
-    {
-      "description": "⚡ A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.",
-      "items": [],
-      "title": "Shades of Purple by Ahmad Awais"
-    },
-    {
-      "description": "A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML, JS, TS, Markdown, and PHP files.",
-      "items": [],
-      "title": "Slime Theme by smlombardi"
+      "title": "Lint and IntelliSense"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "shell script & Dockerfile & dotenv format",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 78123778,
+            "language": "Shell",
+            "last_commit": "2026-08-14T22:49:08Z",
+            "owner": "foxundermoon",
+            "repo": "vs-shell-format",
+            "stars": 547
+          },
+          "title": "shell-format"
+        }
+      ],
+      "title": "Formatting & Beautification"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:44:10.840Z",
+    "last_updated": "2026-08-19T12:58:21.904Z",
     "original_repository": "viatsko/awesome-vscode",
+    "original_repository_id": 51270739,
     "original_repository_sha": "9c3bf848287d3967a744e7c057ea49ec9e89b396",
     "enhanced_repository": "enhansome/enhansome-vscode",
     "enhanced_repository_description": null,
