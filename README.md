@@ -224,8 +224,8 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 188,992 | 🐛 20,024 | 🌐 TypeScript | 📅 2026-08-20 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 188,992 | 🐛 20,024 | 🌐 TypeScript | 📅 2026-08-20
+* [Source code](https://github.com/microsoft/vscode) ⭐ 189,113 | 🐛 20,096 | 🌐 TypeScript | 📅 2026-08-21 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 189,113 | 🐛 20,096 | 🌐 TypeScript | 📅 2026-08-21
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
@@ -443,7 +443,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 * [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava) ⭐ 20,831 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17.
 
-* [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo) ⭐ 7,994 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-29.
+* [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo) ⭐ 7,995 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-29.
 
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Opinionated code formatter for [Prettier](https://github.com/prettier/prettier-vscode) ⭐ 5,508 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-03.
 
@@ -496,7 +496,7 @@ With MATLAB installed:
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,292 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-20.
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,295 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-21.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1448,7 +1448,7 @@ A list of Twitter accounts for various people in the VS Code Community
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 * [Online TextMate Themes Editor](https://el-angel.github.io/theme-editor/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 * [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-* [Open in Code](https://github.com/sozercan/OpenInCode) ⭐ 913 | 🐛 2 | 🌐 Swift | 📅 2026-07-16 - macOS Finder toolbar app to open current folder in Visual Studio Code
+* [Open in Code](https://github.com/sozercan/OpenInCode) ⭐ 912 | 🐛 2 | 🌐 Swift | 📅 2026-07-16 - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
