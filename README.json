@@ -12,10 +12,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:36:10Z",
+            "last_commit": "2026-08-24T23:40:44Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189367
+            "stars": 189525
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:36:10Z",
+            "last_commit": "2026-08-24T23:40:44Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189367
+            "stars": 189525
           }
         }
       ],
@@ -180,7 +180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:49:10.972Z",
+    "last_updated": "2026-08-24T23:43:56.338Z",
     "original_repository": "viatsko/awesome-vscode",
     "original_repository_id": 51270739,
     "original_repository_sha": "9c3bf848287d3967a744e7c057ea49ec9e89b396",

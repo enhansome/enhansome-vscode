@@ -7,8 +7,8 @@
 
 A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 packages and resources. For more awesomeness, check
-out [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,503 | 🐛 106 | 📅 2026-08-21. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
-[<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml) ⭐ 28,974 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21
+out [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,613 | 🐛 106 | 📅 2026-08-21. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
+[<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml) ⭐ 28,975 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21
 
 </div>
 <br/>
@@ -225,8 +225,8 @@ out [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,503 | 🐛 106 | 
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 189,367 | 🐛 20,053 | 🌐 TypeScript | 📅 2026-08-24 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 189,367 | 🐛 20,053 | 🌐 TypeScript | 📅 2026-08-24
+* [Source code](https://github.com/microsoft/vscode) ⭐ 189,525 | 🐛 20,085 | 🌐 TypeScript | 📅 2026-08-24 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 189,525 | 🐛 20,085 | 🌐 TypeScript | 📅 2026-08-24
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
