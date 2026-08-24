@@ -7,7 +7,8 @@
 
 A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 packages and resources. For more awesomeness, check
-out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a> <a href="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml"><img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/></a>
+out [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,503 | 🐛 106 | 📅 2026-08-21. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
+[<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml) ⭐ 28,974 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21
 
 </div>
 <br/>
@@ -224,8 +225,8 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 189,348 | 🐛 19,998 | 🌐 TypeScript | 📅 2026-08-23 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 189,348 | 🐛 19,998 | 🌐 TypeScript | 📅 2026-08-23
+* [Source code](https://github.com/microsoft/vscode) ⭐ 189,367 | 🐛 20,053 | 🌐 TypeScript | 📅 2026-08-24 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 189,367 | 🐛 20,053 | 🌐 TypeScript | 📅 2026-08-24
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
@@ -496,7 +497,7 @@ With MATLAB installed:
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,295 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-22.
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,296 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-24.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1445,10 +1446,10 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Tools
 
+* [Open in Code](https://github.com/sozercan/OpenInCode) ⭐ 912 | 🐛 2 | 🌐 Swift | 📅 2026-07-16 - macOS Finder toolbar app to open current folder in Visual Studio Code
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 * [Online TextMate Themes Editor](https://el-angel.github.io/theme-editor/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 * [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-* [Open in Code](https://github.com/sozercan/OpenInCode) ⭐ 912 | 🐛 2 | 🌐 Swift | 📅 2026-07-16 - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
@@ -1481,4 +1482,4 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

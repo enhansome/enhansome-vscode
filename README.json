@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Source code",
+          "description": "on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41881900,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:36:10Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 189367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monthly iteration plans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41881900,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:36:10Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 189367
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": "In case the awesome nirvana that is linting has not yet been unleashed upon you:\nlint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.\nUnlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, Languages section.",
       "items": [
         {
@@ -85,10 +121,66 @@
         }
       ],
       "title": "Formatting & Beautification"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Essence",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148616081,
+                "language": "JavaScript",
+                "last_commit": "2026-07-20T15:16:25Z",
+                "owner": "essence-language",
+                "repo": "vscode-extension",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "If you're feeling brave, there are at least two custom UIs for VS Code:",
+          "node_type": "group",
+          "title": "UI"
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open in Code",
+              "description": "macOS Finder toolbar app to open current folder in Visual Studio Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62972865,
+                "language": "Swift",
+                "last_commit": "2026-07-16T17:52:33Z",
+                "owner": "sozercan",
+                "repo": "OpenInCode",
+                "stars": 912
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        }
+      ],
+      "title": "Resources for extension developers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:43:30.575Z",
+    "last_updated": "2026-08-24T13:49:10.972Z",
     "original_repository": "viatsko/awesome-vscode",
     "original_repository_id": 51270739,
     "original_repository_sha": "9c3bf848287d3967a744e7c057ea49ec9e89b396",
