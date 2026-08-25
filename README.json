@@ -5,17 +5,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Source code",
+          "title": "microsoft/vscode",
           "description": "on GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T23:40:44Z",
+            "last_commit": "2026-08-25T05:11:08Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189525
+            "stars": 189576
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T23:40:44Z",
+            "last_commit": "2026-08-25T05:11:08Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189525
+            "stars": 189576
           }
         }
       ],
@@ -85,7 +85,7 @@
                     "last_commit": "2026-06-03T17:47:39Z",
                     "owner": "prettier",
                     "repo": "prettier-vscode",
-                    "stars": 5509
+                    "stars": 5510
                   }
                 }
               ],
@@ -180,7 +180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:43:56.338Z",
+    "last_updated": "2026-08-25T05:44:33.808Z",
     "original_repository": "viatsko/awesome-vscode",
     "original_repository_id": 51270739,
     "original_repository_sha": "9c3bf848287d3967a744e7c057ea49ec9e89b396",

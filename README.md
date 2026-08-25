@@ -7,7 +7,7 @@
 
 A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 packages and resources. For more awesomeness, check
-out [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,613 | 🐛 106 | 📅 2026-08-21. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
+out [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,690 | 🐛 106 | 📅 2026-08-21. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
 [<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml) ⭐ 28,975 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21
 
 </div>
@@ -225,8 +225,8 @@ out [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,613 | 🐛 106 | 
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 189,525 | 🐛 20,085 | 🌐 TypeScript | 📅 2026-08-24 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 189,525 | 🐛 20,085 | 🌐 TypeScript | 📅 2026-08-24
+* [Source code](https://github.com/microsoft/vscode) ⭐ 189,576 | 🐛 20,087 | 🌐 TypeScript | 📅 2026-08-25 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 189,576 | 🐛 20,087 | 🌐 TypeScript | 📅 2026-08-25
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
@@ -446,7 +446,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 * [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo) ⭐ 7,994 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-29.
 
-* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Opinionated code formatter for [Prettier](https://github.com/prettier/prettier-vscode) ⭐ 5,509 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-03.
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Opinionated code formatter for [Prettier](https://github.com/prettier/prettier-vscode) ⭐ 5,510 | 🐛 51 | 🌐 TypeScript | 📅 2026-06-03.
 
 * [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 
@@ -497,7 +497,7 @@ With MATLAB installed:
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,296 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-24.
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,296 | 🐛 82 | 🌐 JavaScript | 📅 2026-08-25.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1482,4 +1482,4 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
