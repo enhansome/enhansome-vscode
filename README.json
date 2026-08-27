@@ -12,10 +12,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:28:21Z",
+            "last_commit": "2026-08-27T12:08:07Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189636
+            "stars": 189710
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:28:21Z",
+            "last_commit": "2026-08-27T12:08:07Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189636
+            "stars": 189710
           }
         }
       ],
@@ -55,7 +55,7 @@
                     "last_commit": "2026-06-17T10:19:10Z",
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20830
+                    "stars": 20831
                   }
                 },
                 {
@@ -115,7 +115,7 @@
             "last_commit": "2026-08-26T15:08:54Z",
             "owner": "foxundermoon",
             "repo": "vs-shell-format",
-            "stars": 547
+            "stars": 548
           },
           "title": "shell-format"
         }
@@ -180,9 +180,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:36:09.857Z",
-    "original_repository": "viatsko/awesome-vscode",
-    "original_repository_id": 51270739,
+    "last_updated": "2026-08-27T12:10:26.972Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 51270739,
+      "language": "JavaScript",
+      "last_commit": "2026-06-21T09:36:55Z",
+      "owner": "viatsko",
+      "repo": "awesome-vscode",
+      "stars": 28972
+    },
     "original_repository_sha": "9c3bf848287d3967a744e7c057ea49ec9e89b396",
     "enhanced_repository": "enhansome/enhansome-vscode",
     "enhanced_repository_description": null,
