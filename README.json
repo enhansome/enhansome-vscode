@@ -12,11 +12,12 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:08:07Z",
+            "last_commit": "2026-08-28T06:57:10Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189710
-          }
+            "stars": 189725
+          },
+          "first_seen": "2026-08-28T06:58:57.640Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:08:07Z",
+            "last_commit": "2026-08-28T06:57:10Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189710
-          }
+            "stars": 189725
+          },
+          "first_seen": "2026-08-28T06:58:57.640Z"
         }
       ],
       "title": "Overview"
@@ -56,7 +58,8 @@
                     "owner": "avajs",
                     "repo": "ava",
                     "stars": 20831
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:58:57.640Z"
                 },
                 {
                   "node_type": "item",
@@ -71,7 +74,8 @@
                     "owner": "xojs",
                     "repo": "xo",
                     "stars": 7993
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:58:57.640Z"
                 },
                 {
                   "node_type": "item",
@@ -86,7 +90,8 @@
                     "owner": "prettier",
                     "repo": "prettier-vscode",
                     "stars": 5510
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:58:57.640Z"
                 }
               ],
               "description": null,
@@ -117,7 +122,8 @@
             "repo": "vs-shell-format",
             "stars": 548
           },
-          "title": "shell-format"
+          "title": "shell-format",
+          "first_seen": "2026-08-28T06:58:57.640Z"
         }
       ],
       "title": "Formatting & Beautification"
@@ -140,7 +146,8 @@
                 "owner": "essence-language",
                 "repo": "vscode-extension",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:58:57.640Z"
             }
           ],
           "description": "If you're feeling brave, there are at least two custom UIs for VS Code:",
@@ -167,8 +174,9 @@
                 "last_commit": "2026-07-16T17:52:33Z",
                 "owner": "sozercan",
                 "repo": "OpenInCode",
-                "stars": 913
-              }
+                "stars": 914
+              },
+              "first_seen": "2026-08-28T06:58:57.640Z"
             }
           ],
           "description": null,
@@ -180,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:26.972Z",
+    "last_updated": "2026-08-28T06:58:57.640Z",
     "original_repository_info": {
       "archived": false,
       "id": 51270739,
@@ -188,7 +196,7 @@
       "last_commit": "2026-06-21T09:36:55Z",
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 28972
+      "stars": 28979
     },
     "original_repository_sha": "9c3bf848287d3967a744e7c057ea49ec9e89b396",
     "enhanced_repository": "enhansome/enhansome-vscode",
