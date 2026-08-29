@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T04:03:59Z",
-            "open_issues": 20175,
+            "open_issues": 20176,
             "owner": "microsoft",
             "repo": "vscode",
             "stars": 189757,
@@ -43,7 +43,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T04:03:59Z",
-            "open_issues": 20175,
+            "open_issues": 20176,
             "owner": "microsoft",
             "repo": "vscode",
             "stars": 189757,
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:54.919Z",
+    "last_updated": "2026-08-29T04:22:39.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
