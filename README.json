@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:03:59Z",
-            "open_issues": 20176,
+            "last_commit": "2026-08-29T21:35:13Z",
+            "open_issues": 20208,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189757,
+            "stars": 190036,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:03:59Z",
-            "open_issues": 20176,
+            "last_commit": "2026-08-29T21:35:13Z",
+            "open_issues": 20208,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189757,
+            "stars": 190036,
             "topics": [
               "editor",
               "electron",
@@ -80,7 +80,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-06-17T10:19:10Z",
-                    "open_issues": 73,
+                    "open_issues": 74,
                     "owner": "avajs",
                     "repo": "ava",
                     "stars": 20830,
@@ -197,7 +197,7 @@
             "open_issues": 75,
             "owner": "foxundermoon",
             "repo": "vs-shell-format",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "bash-format",
               "dockerfile",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:39.739Z",
+    "last_updated": "2026-08-30T01:24:07.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -309,7 +309,7 @@
       "open_issues": 54,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 28982,
+      "stars": 28984,
       "topics": [
         "awesome",
         "awesome-list",
