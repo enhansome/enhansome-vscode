@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T00:56:25Z",
-            "open_issues": 20614,
+            "last_commit": "2026-09-07T00:06:25Z",
+            "open_issues": 20653,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 190919,
+            "stars": 190986,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T00:56:25Z",
-            "open_issues": 20614,
+            "last_commit": "2026-09-07T00:06:25Z",
+            "open_issues": 20653,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 190919,
+            "stars": 190986,
             "topics": [
               "editor",
               "electron",
@@ -83,7 +83,7 @@
                     "open_issues": 74,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20828,
+                    "stars": 20827,
                     "topics": [
                       "assert",
                       "async",
@@ -123,7 +123,7 @@
                     "open_issues": 3,
                     "owner": "xojs",
                     "repo": "xo",
-                    "stars": 7990,
+                    "stars": 7991,
                     "topics": [
                       "best-practices",
                       "code-style",
@@ -156,7 +156,7 @@
                     "open_issues": 53,
                     "owner": "prettier",
                     "repo": "prettier-vscode",
-                    "stars": 5514,
+                    "stars": 5513,
                     "topics": [
                       "formatter",
                       "typescript",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:09:11.851Z",
+    "last_updated": "2026-09-07T01:09:43.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -306,10 +306,10 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-06-21T09:36:55Z",
-      "open_issues": 55,
+      "open_issues": 56,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 29006,
+      "stars": 29011,
       "topics": [
         "awesome",
         "awesome-list",
