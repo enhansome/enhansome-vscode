@@ -7,8 +7,8 @@
 
 A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 packages and resources. For more awesomeness, check
-out [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,996 | 🐛 106 | 📅 2026-09-02. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
-[<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml) ⭐ 29,011 | 🐛 57 | 🌐 JavaScript | 📅 2026-06-21
+out [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,291 | 🐛 106 | 📅 2026-09-02. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
+[<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml) ⭐ 29,015 | 🐛 57 | 🌐 JavaScript | 📅 2026-06-21
 
 </div>
 <br/>
@@ -225,8 +225,8 @@ out [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,996 | 🐛 106 | 
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 191,455 | 🐛 20,682 | 🌐 TypeScript | 📅 2026-09-08 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 191,455 | 🐛 20,682 | 🌐 TypeScript | 📅 2026-09-08
+* [Source code](https://github.com/microsoft/vscode) ⭐ 191,491 | 🐛 20,705 | 🌐 TypeScript | 📅 2026-09-09 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 191,491 | 🐛 20,705 | 🌐 TypeScript | 📅 2026-09-09
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
@@ -270,7 +270,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 * [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 * [Swift](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode)
 * [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
-* [Wenyan](https://github.com/antfu/wenyan-lang-vscode) ⭐ 296 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-10
+* [Wenyan](https://github.com/antfu/wenyan-lang-vscode) ⭐ 297 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-10
 * [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 # Migrating from other editors
@@ -497,7 +497,7 @@ With MATLAB installed:
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,326 | 🐛 83 | 🌐 JavaScript | 📅 2026-09-08.
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,327 | 🐛 83 | 🌐 JavaScript | 📅 2026-09-08.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1482,4 +1482,4 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
