@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T01:08:29Z",
-            "open_issues": 20705,
+            "last_commit": "2026-09-10T01:05:27Z",
+            "open_issues": 20744,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 191491,
+            "stars": 191508,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T01:08:29Z",
-            "open_issues": 20705,
+            "last_commit": "2026-09-10T01:05:27Z",
+            "open_issues": 20744,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 191491,
+            "stars": 191508,
             "topics": [
               "editor",
               "electron",
@@ -83,7 +83,7 @@
                     "open_issues": 74,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20827,
+                    "stars": 20825,
                     "topics": [
                       "assert",
                       "async",
@@ -123,7 +123,7 @@
                     "open_issues": 3,
                     "owner": "xojs",
                     "repo": "xo",
-                    "stars": 7991,
+                    "stars": 7990,
                     "topics": [
                       "best-practices",
                       "code-style",
@@ -156,7 +156,7 @@
                     "open_issues": 53,
                     "owner": "prettier",
                     "repo": "prettier-vscode",
-                    "stars": 5512,
+                    "stars": 5513,
                     "topics": [
                       "formatter",
                       "typescript",
@@ -193,7 +193,7 @@
             "id": 78123778,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-07T15:54:27Z",
+            "last_commit": "2026-09-09T17:42:47Z",
             "open_issues": 77,
             "owner": "foxundermoon",
             "repo": "vs-shell-format",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:20:40.095Z",
+    "last_updated": "2026-09-10T01:14:47.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
