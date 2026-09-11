@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T01:05:27Z",
-            "open_issues": 20744,
+            "last_commit": "2026-09-11T01:15:35Z",
+            "open_issues": 20821,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 191508,
+            "stars": 191971,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T01:05:27Z",
-            "open_issues": 20744,
+            "last_commit": "2026-09-11T01:15:35Z",
+            "open_issues": 20821,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 191508,
+            "stars": 191971,
             "topics": [
               "editor",
               "electron",
@@ -83,7 +83,7 @@
                     "open_issues": 74,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20825,
+                    "stars": 20824,
                     "topics": [
                       "assert",
                       "async",
@@ -123,7 +123,7 @@
                     "open_issues": 3,
                     "owner": "xojs",
                     "repo": "xo",
-                    "stars": 7990,
+                    "stars": 7989,
                     "topics": [
                       "best-practices",
                       "code-style",
@@ -193,7 +193,7 @@
             "id": 78123778,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-09T17:42:47Z",
+            "last_commit": "2026-09-10T19:44:19Z",
             "open_issues": 77,
             "owner": "foxundermoon",
             "repo": "vs-shell-format",
@@ -277,7 +277,7 @@
                 "open_issues": 2,
                 "owner": "sozercan",
                 "repo": "OpenInCode",
-                "stars": 915,
+                "stars": 916,
                 "topics": [
                   "finder-toolbar",
                   "macos",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:14:47.023Z",
+    "last_updated": "2026-09-11T01:16:56.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -309,7 +309,7 @@
       "open_issues": 57,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 29015,
+      "stars": 29019,
       "topics": [
         "awesome",
         "awesome-list",
