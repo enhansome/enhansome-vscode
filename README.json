@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T01:15:35Z",
-            "open_issues": 20821,
+            "last_commit": "2026-09-12T01:14:10Z",
+            "open_issues": 20947,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 191971,
+            "stars": 192022,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T01:15:35Z",
-            "open_issues": 20821,
+            "last_commit": "2026-09-12T01:14:10Z",
+            "open_issues": 20947,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 191971,
+            "stars": 192022,
             "topics": [
               "editor",
               "electron",
@@ -83,7 +83,7 @@
                     "open_issues": 74,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20824,
+                    "stars": 20825,
                     "topics": [
                       "assert",
                       "async",
@@ -156,7 +156,7 @@
                     "open_issues": 53,
                     "owner": "prettier",
                     "repo": "prettier-vscode",
-                    "stars": 5513,
+                    "stars": 5514,
                     "topics": [
                       "formatter",
                       "typescript",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:16:56.991Z",
+    "last_updated": "2026-09-12T01:18:41.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -309,7 +309,7 @@
       "open_issues": 57,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 29019,
+      "stars": 29021,
       "topics": [
         "awesome",
         "awesome-list",
