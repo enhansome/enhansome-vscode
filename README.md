@@ -7,8 +7,8 @@
 
 A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 packages and resources. For more awesomeness, check
-out [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,779 | 🐛 106 | 📅 2026-09-02. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
-[<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml) ⭐ 29,028 | 🐛 59 | 🌐 JavaScript | 📅 2026-06-21
+out [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,080 | 🐛 106 | 📅 2026-09-02. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
+[<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml) ⭐ 29,035 | 🐛 59 | 🌐 JavaScript | 📅 2026-06-21
 
 </div>
 <br/>
@@ -225,8 +225,8 @@ out [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,779 | 🐛 106 | 
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 192,463 | 🐛 21,056 | 🌐 TypeScript | 📅 2026-09-14 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 192,463 | 🐛 21,056 | 🌐 TypeScript | 📅 2026-09-14
+* [Source code](https://github.com/microsoft/vscode) ⭐ 192,553 | 🐛 21,106 | 🌐 TypeScript | 📅 2026-09-15 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 192,553 | 🐛 21,106 | 🌐 TypeScript | 📅 2026-09-15
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
@@ -497,7 +497,7 @@ With MATLAB installed:
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,342 | 🐛 79 | 🌐 JavaScript | 📅 2026-09-12.
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,341 | 🐛 79 | 🌐 JavaScript | 📅 2026-09-14.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1482,4 +1482,4 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
