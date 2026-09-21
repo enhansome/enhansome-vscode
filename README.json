@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T00:02:02Z",
-            "open_issues": 21179,
+            "last_commit": "2026-09-21T00:40:53Z",
+            "open_issues": 21194,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 192700,
+            "stars": 192735,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T00:02:02Z",
-            "open_issues": 21179,
+            "last_commit": "2026-09-21T00:40:53Z",
+            "open_issues": 21194,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 192700,
+            "stars": 192735,
             "topics": [
               "editor",
               "electron",
@@ -123,7 +123,7 @@
                     "open_issues": 2,
                     "owner": "xojs",
                     "repo": "xo",
-                    "stars": 7990,
+                    "stars": 7989,
                     "topics": [
                       "best-practices",
                       "code-style",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:20:09.951Z",
+    "last_updated": "2026-09-21T01:18:57.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -306,10 +306,10 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-06-21T09:36:55Z",
-      "open_issues": 63,
+      "open_issues": 64,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 29051,
+      "stars": 29058,
       "topics": [
         "awesome",
         "awesome-list",
