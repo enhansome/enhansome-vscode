@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T02:12:37Z",
-            "open_issues": 21236,
+            "last_commit": "2026-10-01T02:02:30Z",
+            "open_issues": 21262,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193284,
+            "stars": 193316,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T02:12:37Z",
-            "open_issues": 21236,
+            "last_commit": "2026-10-01T02:02:30Z",
+            "open_issues": 21262,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193284,
+            "stars": 193316,
             "topics": [
               "editor",
               "electron",
@@ -83,7 +83,7 @@
                     "open_issues": 82,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20824,
+                    "stars": 20823,
                     "topics": [
                       "assert",
                       "async",
@@ -156,7 +156,7 @@
                     "open_issues": 54,
                     "owner": "prettier",
                     "repo": "prettier-vscode",
-                    "stars": 5512,
+                    "stars": 5513,
                     "topics": [
                       "formatter",
                       "typescript",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:13:36.040Z",
+    "last_updated": "2026-10-01T02:15:40.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -306,10 +306,10 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-06-21T09:36:55Z",
-      "open_issues": 67,
+      "open_issues": 69,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 29086,
+      "stars": 29090,
       "topics": [
         "awesome",
         "awesome-list",
