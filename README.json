@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:01:03Z",
-            "open_issues": 21342,
+            "last_commit": "2026-10-03T04:36:42Z",
+            "open_issues": 21339,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193368,
+            "stars": 193370,
             "topics": [
               "editor",
               "electron",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Monthly iteration plans",
-          "description": null,
+          "description": "microsoft/vscode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:01:03Z",
-            "open_issues": 21342,
+            "last_commit": "2026-10-03T04:36:42Z",
+            "open_issues": 21339,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193368,
+            "stars": 193370,
             "topics": [
               "editor",
               "electron",
@@ -227,7 +227,7 @@
             {
               "node_type": "item",
               "title": "Essence",
-              "description": null,
+              "description": "essence-language/vscode-extension",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:10:12.476Z",
+    "last_updated": "2026-10-03T05:13:03.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -309,7 +309,7 @@
       "open_issues": 72,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 29090,
+      "stars": 29092,
       "topics": [
         "awesome",
         "awesome-list",
