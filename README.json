@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T01:16:15Z",
-            "open_issues": 21717,
+            "last_commit": "2026-10-12T02:31:18Z",
+            "open_issues": 21707,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193532,
+            "stars": 193587,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T01:16:15Z",
-            "open_issues": 21717,
+            "last_commit": "2026-10-12T02:31:18Z",
+            "open_issues": 21707,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193532,
+            "stars": 193587,
             "topics": [
               "editor",
               "electron",
@@ -123,7 +123,7 @@
                     "open_issues": 2,
                     "owner": "xojs",
                     "repo": "xo",
-                    "stars": 7989,
+                    "stars": 7990,
                     "topics": [
                       "best-practices",
                       "code-style",
@@ -156,7 +156,7 @@
                     "open_issues": 54,
                     "owner": "prettier",
                     "repo": "prettier-vscode",
-                    "stars": 5509,
+                    "stars": 5508,
                     "topics": [
                       "formatter",
                       "typescript",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T02:01:48.121Z",
+    "last_updated": "2026-10-12T02:32:12.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
