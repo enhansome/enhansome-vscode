@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T01:56:46Z",
-            "open_issues": 21754,
+            "last_commit": "2026-10-15T01:32:54Z",
+            "open_issues": 21714,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193735,
+            "stars": 193614,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T01:56:46Z",
-            "open_issues": 21754,
+            "last_commit": "2026-10-15T01:32:54Z",
+            "open_issues": 21714,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193735,
+            "stars": 193614,
             "topics": [
               "editor",
               "electron",
@@ -83,7 +83,7 @@
                     "open_issues": 77,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20822,
+                    "stars": 20823,
                     "topics": [
                       "assert",
                       "async",
@@ -153,7 +153,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-06-03T17:47:39Z",
-                    "open_issues": 55,
+                    "open_issues": 56,
                     "owner": "prettier",
                     "repo": "prettier-vscode",
                     "stars": 5509,
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:01:56.534Z",
+    "last_updated": "2026-10-15T01:36:58.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -309,7 +309,7 @@
       "open_issues": 80,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 29114,
+      "stars": 29117,
       "topics": [
         "awesome",
         "awesome-list",
