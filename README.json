@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T01:34:30Z",
-            "open_issues": 22175,
+            "last_commit": "2026-10-25T01:12:20Z",
+            "open_issues": 22225,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 194253,
+            "stars": 194257,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T01:34:30Z",
-            "open_issues": 22175,
+            "last_commit": "2026-10-25T01:12:20Z",
+            "open_issues": 22225,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 194253,
+            "stars": 194257,
             "topics": [
               "editor",
               "electron",
@@ -83,7 +83,7 @@
                     "open_issues": 75,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20823,
+                    "stars": 20825,
                     "topics": [
                       "assert",
                       "async",
@@ -123,7 +123,7 @@
                     "open_issues": 3,
                     "owner": "xojs",
                     "repo": "xo",
-                    "stars": 7992,
+                    "stars": 7994,
                     "topics": [
                       "best-practices",
                       "code-style",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:45:33.495Z",
+    "last_updated": "2026-10-25T01:22:27.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -309,7 +309,7 @@
       "open_issues": 84,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 29154,
+      "stars": 29161,
       "topics": [
         "awesome",
         "awesome-list",
