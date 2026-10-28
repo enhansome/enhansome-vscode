@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T02:11:27Z",
-            "open_issues": 22190,
+            "last_commit": "2026-10-28T02:11:23Z",
+            "open_issues": 22184,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 194354,
+            "stars": 194397,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T02:11:27Z",
-            "open_issues": 22190,
+            "last_commit": "2026-10-28T02:11:23Z",
+            "open_issues": 22184,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 194354,
+            "stars": 194397,
             "topics": [
               "editor",
               "electron",
@@ -79,11 +79,11 @@
                     "id": 26820798,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T18:35:58Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-10-27T20:18:59Z",
+                    "open_issues": 66,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20825,
+                    "stars": 20824,
                     "topics": [
                       "assert",
                       "async",
@@ -277,7 +277,7 @@
                 "open_issues": 2,
                 "owner": "sozercan",
                 "repo": "OpenInCode",
-                "stars": 918,
+                "stars": 920,
                 "topics": [
                   "finder-toolbar",
                   "macos",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:14:35.059Z",
+    "last_updated": "2026-10-28T02:28:54.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
