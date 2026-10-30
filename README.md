@@ -7,7 +7,7 @@
 
 A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 packages and resources. For more awesomeness, check
-out [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,367 | 🐛 105 | 📅 2026-09-02. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
+out [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,893 | 🐛 105 | 📅 2026-09-02. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
 [<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml)
 
 </div>
@@ -225,8 +225,8 @@ out [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,367 | 🐛 105 | 
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 194,397 | 🐛 22,146 | 🌐 TypeScript | 📅 2026-10-29 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 194,397 | 🐛 22,146 | 🌐 TypeScript | 📅 2026-10-29
+* [Source code](https://github.com/microsoft/vscode) ⭐ 194,356 | 🐛 22,012 | 🌐 TypeScript | 📅 2026-10-30 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 194,356 | 🐛 22,012 | 🌐 TypeScript | 📅 2026-10-30
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
@@ -309,7 +309,7 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).
 
-Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes) ⭐ 5,954 | 🐛 40 | 🌐 JavaScript | 📅 2026-03-30
+Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes) ⭐ 5,953 | 🐛 40 | 🌐 JavaScript | 📅 2026-03-30
 
 # Lint and IntelliSense
 
@@ -446,7 +446,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 * [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo) ⭐ 7,994 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-18.
 
-* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Opinionated code formatter for [Prettier](https://github.com/prettier/prettier-vscode) ⭐ 5,514 | 🐛 57 | 🌐 TypeScript | 📅 2026-06-03.
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Opinionated code formatter for [Prettier](https://github.com/prettier/prettier-vscode) ⭐ 5,514 | 🐛 58 | 🌐 TypeScript | 📅 2026-06-03.
 
 * [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 
@@ -497,7 +497,7 @@ With MATLAB installed:
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,402 | 🐛 87 | 🌐 JavaScript | 📅 2026-10-29.
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,405 | 🐛 85 | 🌐 JavaScript | 📅 2026-10-30.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1446,7 +1446,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Tools
 
-* [Open in Code](https://github.com/sozercan/OpenInCode) ⭐ 920 | 🐛 2 | 🌐 Swift | 📅 2026-07-16 - macOS Finder toolbar app to open current folder in Visual Studio Code
+* [Open in Code](https://github.com/sozercan/OpenInCode) ⭐ 919 | 🐛 2 | 🌐 Swift | 📅 2026-07-16 - macOS Finder toolbar app to open current folder in Visual Studio Code
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 * [Online TextMate Themes Editor](https://el-angel.github.io/theme-editor/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 * [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
@@ -1482,4 +1482,4 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
