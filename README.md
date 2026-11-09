@@ -7,7 +7,7 @@
 
 A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 packages and resources. For more awesomeness, check
-out [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,260 | 🐛 103 | 📅 2026-09-02. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
+out [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,923 | 🐛 103 | 📅 2026-09-02. <br/> <br/> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
 [<img src="https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml/badge.svg" alt="Links Status"/>](https://github.com/viatsko/awesome-vscode/actions/workflows/links.yml)
 
 </div>
@@ -225,8 +225,8 @@ out [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,260 | 🐛 103 | 
 
 # Awesome Official with stars
 
-* [Source code](https://github.com/microsoft/vscode) ⭐ 195,142 | 🐛 21,796 | 🌐 TypeScript | 📅 2026-11-07 on GitHub
-* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 195,142 | 🐛 21,796 | 🌐 TypeScript | 📅 2026-11-07
+* [Source code](https://github.com/microsoft/vscode) ⭐ 195,207 | 🐛 21,747 | 🌐 TypeScript | 📅 2026-11-09 on GitHub
+* [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+) ⭐ 195,207 | 🐛 21,747 | 🌐 TypeScript | 📅 2026-11-09
 * [Official website](https://code.visualstudio.com/)
 * [Releases (stable channel)](https://code.visualstudio.com/download)
 * [Releases (insiders channel)](https://code.visualstudio.com/insiders)
@@ -442,7 +442,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ### Linters
 
-* [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava) ⭐ 20,828 | 🐛 59 | 🌐 JavaScript | 📅 2026-11-07.
+* [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava) ⭐ 20,828 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-07.
 
 * [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo) ⭐ 7,996 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-18.
 
@@ -497,7 +497,7 @@ With MATLAB installed:
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,417 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-07.
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint) ⭐ 6,419 | 🐛 77 | 🌐 JavaScript | 📅 2026-11-09.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1482,4 +1482,4 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
