@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T04:10:36Z",
-            "open_issues": 21668,
+            "last_commit": "2026-11-20T04:06:14Z",
+            "open_issues": 21693,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 195552,
+            "stars": 195678,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T04:10:36Z",
-            "open_issues": 21668,
+            "last_commit": "2026-11-20T04:06:14Z",
+            "open_issues": 21693,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 195552,
+            "stars": 195678,
             "topics": [
               "editor",
               "electron",
@@ -83,7 +83,7 @@
                     "open_issues": 64,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20827,
+                    "stars": 20826,
                     "topics": [
                       "assert",
                       "async",
@@ -123,7 +123,7 @@
                     "open_issues": 2,
                     "owner": "xojs",
                     "repo": "xo",
-                    "stars": 7997,
+                    "stars": 7996,
                     "topics": [
                       "best-practices",
                       "code-style",
@@ -153,10 +153,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-06-03T17:47:39Z",
-                    "open_issues": 61,
+                    "open_issues": 63,
                     "owner": "prettier",
                     "repo": "prettier-vscode",
-                    "stars": 5517,
+                    "stars": 5516,
                     "topics": [
                       "formatter",
                       "typescript",
@@ -277,7 +277,7 @@
                 "open_issues": 2,
                 "owner": "sozercan",
                 "repo": "OpenInCode",
-                "stars": 920,
+                "stars": 919,
                 "topics": [
                   "finder-toolbar",
                   "macos",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:19:19.819Z",
+    "last_updated": "2026-11-20T04:07:16.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
@@ -306,10 +306,10 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-06-21T09:36:55Z",
-      "open_issues": 94,
+      "open_issues": 91,
       "owner": "viatsko",
       "repo": "awesome-vscode",
-      "stars": 29248,
+      "stars": 29250,
       "topics": [
         "awesome",
         "awesome-list",
