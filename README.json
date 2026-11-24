@@ -15,11 +15,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T03:45:51Z",
-            "open_issues": 21806,
+            "last_commit": "2026-11-24T06:47:24Z",
+            "open_issues": 21857,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 195804,
+            "stars": 195672,
             "topics": [
               "editor",
               "electron",
@@ -42,11 +42,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T03:45:51Z",
-            "open_issues": 21806,
+            "last_commit": "2026-11-24T06:47:24Z",
+            "open_issues": 21857,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 195804,
+            "stars": 195672,
             "topics": [
               "editor",
               "electron",
@@ -79,11 +79,11 @@
                     "id": 26820798,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-22T22:01:48Z",
-                    "open_issues": 65,
+                    "last_commit": "2026-11-23T21:12:27Z",
+                    "open_issues": 64,
                     "owner": "avajs",
                     "repo": "ava",
-                    "stars": 20826,
+                    "stars": 20825,
                     "topics": [
                       "assert",
                       "async",
@@ -156,7 +156,7 @@
                     "open_issues": 63,
                     "owner": "prettier",
                     "repo": "prettier-vscode",
-                    "stars": 5516,
+                    "stars": 5515,
                     "topics": [
                       "formatter",
                       "typescript",
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:52:07.948Z",
+    "last_updated": "2026-11-24T06:59:59.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 A curated list of delightful VS Code packages and resources.",
